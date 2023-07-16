@@ -1,0 +1,513 @@
+1642931423940	geckodriver	INFO	Listening on 127.0.0.1:61815
+1642931427024	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61816" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileBf7uMs"
+1642931427697	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileBf7uMs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61816/devtools/browser/b7c7ee6a-2c19-4d97-9803-a025a5637db8
+1642931431241	Marionette	INFO	Listening on port 61821
+1642931431286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642931433131	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 1420, MediaDecoderStateMachine #1] WARNING: 1e144be0740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642931480091	Marionette	INFO	Stopped listening on port 61821
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642931702923	geckodriver	INFO	Listening on 127.0.0.1:61953
+1642931705992	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61954" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile6QD8hG"
+1642931706454	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile6QD8hG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61954/devtools/browser/5afbbf45-1eda-4c50-915b-d09733038f2f
+1642931709293	Marionette	INFO	Listening on port 61959
+1642931709727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642931711442	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 12852, MediaDecoderStateMachine #1] WARNING: 206154f92e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 1522 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 12852, MediaDecoderStateMachine #1] WARNING: 20614150040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642931740925	Marionette	INFO	Stopped listening on port 61959
+1642931741138	geckodriver	INFO	Listening on 127.0.0.1:62041
+1642931744197	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62042" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile872J5l"
+1642931744739	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile872J5l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62042/devtools/browser/53d59562-4f87-4d83-8e88-54f642b54938
+1642931747967	Marionette	INFO	Listening on port 62047
+1642931748422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642931749888	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1642931894311	geckodriver	INFO	Listening on 127.0.0.1:62132
+1642931897386	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62133" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileuSYKmI"
+1642931897821	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileuSYKmI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62133/devtools/browser/92b29197-76bc-49d3-a9c0-4aa90694a6f9
+1642931901399	Marionette	INFO	Listening on port 62138
+1642931901620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642931903118	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1642931911697	Marionette	INFO	Stopped listening on port 62138
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642931920408	geckodriver	INFO	Listening on 127.0.0.1:62204
+1642931923464	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62205" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofiled6yulK"
+1642931923889	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofiled6yulK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62205/devtools/browser/ec3687f1-2b52-4828-b19f-ae2719438561
+1642931926769	Marionette	INFO	Listening on port 62210
+1642931927202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642931929957	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 2700, MediaDecoderStateMachine #1] WARNING: 188e30f6120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 4145 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2700, MediaDecoderStateMachine #1] WARNING: 188de7b13c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642931951147	Marionette	INFO	Stopped listening on port 62210
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642933054970	geckodriver	INFO	Listening on 127.0.0.1:58628
+1642933058039	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58629" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileYBzNc6"
+1642933058478	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileYBzNc6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58629/devtools/browser/a03a1e31-9278-4bd3-a788-015ff5715518
+1642933061688	Marionette	INFO	Listening on port 58634
+1642933061794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642933063766	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 19800, MediaDecoderStateMachine #1] WARNING: 21e77c23740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 4371 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 19800, MediaDecoderStateMachine #1] WARNING: 21e7527df20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642933106067	Marionette	INFO	Stopped listening on port 58634
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642933473982	geckodriver	INFO	Listening on 127.0.0.1:65290
+1642933477062	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65291" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileAvDJEg"
+1642933477495	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileAvDJEg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65291/devtools/browser/6e98f6fe-ffba-4633-a91d-c9d86162a637
+1642933480495	Marionette	INFO	Listening on port 65296
+1642933480769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642933482577	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 7692, MediaDecoderStateMachine #1] WARNING: 2504c2b23c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642933516587	Marionette	INFO	Stopped listening on port 65296
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642933648591	geckodriver	INFO	Listening on 127.0.0.1:65457
+1642933651672	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65458" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile5W23Ar"
+1642933652089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile5W23Ar\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65458/devtools/browser/e3136b81-cbcb-45c0-85f4-ad2bba5731dd
+1642933654817	Marionette	INFO	Listening on port 65463
+1642933654878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642933656564	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1642933660729	Marionette	INFO	Stopped listening on port 65463
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642933811881	geckodriver	INFO	Listening on 127.0.0.1:49164
+1642933814952	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49165" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilefMSkMQ"
+1642933815349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilefMSkMQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49165/devtools/browser/88a9597c-8d78-4bd4-9698-2476d05af31e
+1642933818361	Marionette	INFO	Listening on port 49170
+1642933818654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642933821525	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 5092, MediaDecoderStateMachine #1] WARNING: 21ec2debe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5092, MediaDecoderStateMachine #1] WARNING: 21ec2debe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642933854292	Marionette	INFO	Stopped listening on port 49170
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642936013743	geckodriver	INFO	Listening on 127.0.0.1:49341
+1642936016838	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49342" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileal1mAq"
+1642936017656	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileal1mAq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49342/devtools/browser/af140c3c-2567-4ffb-bdbc-6a396a4e6f06
+1642936023053	Marionette	INFO	Listening on port 49347
+1642936023319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642936026870	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 18408, MediaDecoderStateMachine #1] WARNING: 1713a6444a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 3555 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 18408, MediaDecoderStateMachine #1] WARNING: 1713867f9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642936080870	Marionette	INFO	Stopped listening on port 49347
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642936430175	geckodriver	INFO	Listening on 127.0.0.1:62616
+1642936433238	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62617" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilelhFxFF"
+1642936434037	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilelhFxFF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62617/devtools/browser/6b7c2ae9-f48b-409e-93c7-758dd7a314b5
+1642936439257	Marionette	INFO	Listening on port 62622
+1642936439645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642936441594	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 8820, MediaDecoderStateMachine #1] WARNING: 1a444d27ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 5490 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8820, MediaDecoderStateMachine #1] WARNING: 1a43f4c6120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642936482822	Marionette	INFO	Stopped listening on port 62622
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642937222975	geckodriver	INFO	Listening on 127.0.0.1:60852
+1642937226054	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60853" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilecVUwGN"
+1642937226900	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilecVUwGN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60853/devtools/browser/fcc9761d-431f-4e79-887b-a7ebeb71c2b9
+1642937232435	Marionette	INFO	Listening on port 60858
+1642937232588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642937234537	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1642937241796	Marionette	INFO	Stopped listening on port 60858
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642937386331	geckodriver	INFO	Listening on 127.0.0.1:62234
+1642937389446	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62235" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileL4Mmjh"
+1642937390349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileL4Mmjh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62235/devtools/browser/fedf5c87-e6fe-4563-95f4-692470e1f0a4
+1642937395698	Marionette	INFO	Listening on port 62240
+1642937395862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642937397792	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 6400, MediaDecoderStateMachine #1] WARNING: 2dae7d79f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 1220 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 6400, MediaDecoderStateMachine #1] WARNING: 2dadb9feac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642937437500	Marionette	INFO	Stopped listening on port 62240
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643013099525	geckodriver	INFO	Listening on 127.0.0.1:57692
+1643013102589	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57693" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileSnUT63"
+1643013103260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileSnUT63\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57693/devtools/browser/7465838d-b3b9-45a4-abd4-6b53cbeb6e4a
+1643013106400	Marionette	INFO	Listening on port 57698
+1643013106803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643013108694	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 17184, MediaDecoderStateMachine #1] WARNING: 27ca6d38660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 3957 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 17184, MediaDecoderStateMachine #1] WARNING: 27ca4bc2660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 17184, MediaDecoderStateMachine #1] WARNING: 27ca3bf3e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 17184, MediaDecoderStateMachine #1] WARNING: 27ca3bf34a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643013132492	Marionette	INFO	Stopped listening on port 57698
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643022000550	geckodriver	INFO	Listening on 127.0.0.1:52254
+1643022003626	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52255" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilevKhyIT"
+1643022004680	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilevKhyIT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52255/devtools/browser/fa64c1fa-9709-4145-a616-ea8af6ac4dd2
+1643022009373	Marionette	INFO	Listening on port 52260
+1643022009491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643022011718	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 9564, MediaDecoderStateMachine #1] WARNING: 2d3cba6d200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 638 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9564, MediaDecoderStateMachine #1] WARNING: 2d3b7f73580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643022057515	Marionette	INFO	Stopped listening on port 52260
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643027278974	geckodriver	INFO	Listening on 127.0.0.1:55012
+1643027282077	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55013" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileMxCnc7"
+1643027282756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileMxCnc7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55013/devtools/browser/b2f80e60-4a1e-432d-8e57-caa8a2c28ec1
+1643027286205	Marionette	INFO	Listening on port 55018
+1643027286301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643027289733	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 9748, MediaDecoderStateMachine #1] WARNING: 28d8f7f8c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 283 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9748, MediaDecoderStateMachine #1] WARNING: 28d90c423c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643027340285	Marionette	INFO	Stopped listening on port 55018
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643035348899	geckodriver	INFO	Listening on 127.0.0.1:50934
+1643035351973	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50935" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilemS8zwQ"
+1643035352666	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilemS8zwQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50935/devtools/browser/d4215007-0522-4e7b-a617-775bbe89dd77
+1643035356083	Marionette	INFO	Listening on port 50940
+1643035356217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643035357989	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 9456, MediaDecoderStateMachine #1] WARNING: 15ccf837580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 7604 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9456, MediaDecoderStateMachine #1] WARNING: 15cd07aa820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643035399838	Marionette	INFO	Stopped listening on port 50940
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643035874946	geckodriver	INFO	Listening on 127.0.0.1:51163
+1643035877997	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51164" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileozWZp2"
+1643035878658	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileozWZp2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51164/devtools/browser/6bc680f4-2d1f-4eca-b4cb-fe3886143819
+1643035882032	Marionette	INFO	Listening on port 51169
+1643035882241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643035884511	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 11640, MediaDecoderStateMachine #1] WARNING: 22a377c7120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 3432 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11640, MediaDecoderStateMachine #1] WARNING: 22a377c7c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643035922973	Marionette	INFO	Stopped listening on port 51169
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643036650472	geckodriver	INFO	Listening on 127.0.0.1:51523
+1643036653551	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51524" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilenxWkCl"
+1643036654416	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilenxWkCl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51524/devtools/browser/4d8436ca-d3f1-46af-bf4b-a6faca4c0582
+1643036658288	Marionette	INFO	Listening on port 51529
+1643036658369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643036659929	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 4192, MediaDecoderStateMachine #1] WARNING: 1a4d53f3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 3671 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4192, MediaDecoderStateMachine #1] WARNING: 1a4d3d9dd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643036700156	Marionette	INFO	Stopped listening on port 51529
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643047844111	geckodriver	INFO	Listening on 127.0.0.1:49796
+1643047847207	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49797" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileSYoet7"
+1643047848366	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileSYoet7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49797/devtools/browser/4f75a3cd-0053-47fb-8391-a20b2feb05d6
+1643047852779	Marionette	INFO	Listening on port 49802
+1643047853148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643047855316	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 17380, MediaDecoderStateMachine #1] WARNING: 246b1f78f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 6572 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 17380, MediaDecoderStateMachine #1] WARNING: 246ae2c79e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643047895171	Marionette	INFO	Stopped listening on port 49802
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643082402662	geckodriver	INFO	Listening on 127.0.0.1:59435
+1643082405793	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59436" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilelLFbla"
+1643082407110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilelLFbla\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59436/devtools/browser/81d52a6b-4d0b-4b00-a121-466ddfe67b32
+1643082413365	Marionette	INFO	Listening on port 59441
+1643082413834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643082418425	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 18760, MediaDecoderStateMachine #1] WARNING: 19b2a3d6d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 7251 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 18760, MediaDecoderStateMachine #1] WARNING: 19b2a3fa660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643082460188	Marionette	INFO	Stopped listening on port 59441
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643083121923	geckodriver	INFO	Listening on 127.0.0.1:59701
+1643083125009	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59702" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile1dQGb7"
+1643083125882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile1dQGb7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59702/devtools/browser/5d080754-3744-4fd0-a7fd-c52c2cd6e669
+1643083131215	Marionette	INFO	Listening on port 59707
+1643083131492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643083136181	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 15296, MediaDecoderStateMachine #1] WARNING: 2f35b1a6120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 6895 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 15296, MediaDecoderStateMachine #1] WARNING: 2f34ddaad60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15296, MediaDecoderStateMachine #1] WARNING: 2f34768a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643083206183	Marionette	INFO	Stopped listening on port 59707
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643093119833	geckodriver	INFO	Listening on 127.0.0.1:61283
+1643093122892	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61284" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilegpx2kK"
+1643093123682	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilegpx2kK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61284/devtools/browser/96ff6cf4-2297-4932-b427-20545304d34d
+1643093127488	Marionette	INFO	Listening on port 61289
+1643093127772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643093132250	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 5940, MediaDecoderStateMachine #1] WARNING: 1add0653040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5940, MediaDecoderStateMachine #1] WARNING: 1add0653040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 3524 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5940, MediaDecoderStateMachine #1] WARNING: 1adcf31eba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643093171485	Marionette	INFO	Stopped listening on port 61289
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643093637718	geckodriver	INFO	Listening on 127.0.0.1:61559
+1643093640814	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61560" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileC29Sii"
+1643093641566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileC29Sii\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61560/devtools/browser/cbe35c75-a705-407d-8cf8-47003ce35183
+1643093645409	Marionette	INFO	Listening on port 61565
+1643093645702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643093648850	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 11688, MediaDecoderStateMachine #1] WARNING: 2304a9784a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/i8bj7ClzAoAUPYLrGgyCP56U_VUeYw5vpVcJR_BKyl0.js line 1 > eval line 2666 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11688, MediaDecoderStateMachine #1] WARNING: 2304a1083c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643093688623	Marionette	INFO	Stopped listening on port 61565
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 19868, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643095495225	geckodriver	INFO	Listening on 127.0.0.1:63683
+1643095498293	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63684" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileIUtn0K"
+1643095498794	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileIUtn0K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63684/devtools/browser/4b1c8dd3-0e73-49d9-8b0a-b95581a9eaa6
+1643095502295	Marionette	INFO	Listening on port 63689
+1643095502544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643095505555	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 956, MediaDecoderStateMachine #1] WARNING: 1c2333c1ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643095537043	Marionette	INFO	Stopped listening on port 63689
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643095547970	geckodriver	INFO	Listening on 127.0.0.1:63757
+1643095551059	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63758" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileDAfvrP"
+1643095551568	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileDAfvrP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63758/devtools/browser/7dc91c64-29d2-466d-a3da-257f7e1002e7
+1643095555065	Marionette	INFO	Listening on port 63763
+1643095555306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643095557243	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 21324, MediaDecoderStateMachine #1] WARNING: 1de055742e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 21324, MediaDecoderStateMachine #1] WARNING: 1de039f6820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643095567791	Marionette	INFO	Stopped listening on port 63763
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643095579051	geckodriver	INFO	Listening on 127.0.0.1:63827
+1643095582113	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63828" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilebFv91x"
+1643095582640	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilebFv91x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63828/devtools/browser/66be5ba9-43e1-4aaa-8b6f-a14f222ec925
+1643095586000	Marionette	INFO	Listening on port 63833
+1643095586407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643095588016	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1643095595925	Marionette	INFO	Stopped listening on port 63833
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643105915153	geckodriver	INFO	Listening on 127.0.0.1:49439
+1643105918254	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49440" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileZntXz0"
+1643105919621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileZntXz0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49440/devtools/browser/6b2b1eae-ce59-4d26-997f-c050da20688a
+1643105925273	Marionette	INFO	Listening on port 49446
+1643105925817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643105927946	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 3272, MediaDecoderStateMachine #1] WARNING: 1fc7cd97ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VYSAmqkCqqI2p1vG7N0EZhME2mSBj47Ds8I6nIhDmP4.js line 1 > eval line 75 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 3272, MediaDecoderStateMachine #1] WARNING: 1fc7927de40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3272, MediaDecoderStateMachine #1] WARNING: 1fc7291b900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3272, MediaDecoderStateMachine #1] WARNING: 1fc7927de40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3272, MediaDecoderStateMachine #1] WARNING: 1fc7b9ec580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3272, MediaDecoderStateMachine #1] WARNING: 1fc7b9ecac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3272, MediaDecoderStateMachine #1] WARNING: 1fc7d861f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643105959938	Marionette	INFO	Stopped listening on port 49446
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643106010227	geckodriver	INFO	Listening on 127.0.0.1:49529
+1643106013309	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49530" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilewcNdOp"
+1643106014163	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilewcNdOp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49530/devtools/browser/258d36e8-8979-4b41-a93b-9abf683a5a0f
+1643106019328	Marionette	INFO	Listening on port 49535
+1643106019706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643106021927	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 17596, MediaDecoderStateMachine #1] WARNING: 169a8d73740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VYSAmqkCqqI2p1vG7N0EZhME2mSBj47Ds8I6nIhDmP4.js line 1 > eval line 4314 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeError: browser is null
+1643106029994	Marionette	INFO	Stopped listening on port 49535
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643106042683	geckodriver	INFO	Listening on 127.0.0.1:49609
+1643106045737	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49610" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofiler4fQlW"
+1643106046546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofiler4fQlW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49610/devtools/browser/4d60d67b-8e0d-44ee-ac98-13fcb668070c
+1643106051327	Marionette	INFO	Listening on port 49615
+1643106051594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643106053984	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 2620, MediaDecoderStateMachine #1] WARNING: 17289bd34a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VYSAmqkCqqI2p1vG7N0EZhME2mSBj47Ds8I6nIhDmP4.js line 1 > eval line 5508 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2620, MediaDecoderStateMachine #1] WARNING: 1728f6fa740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643106096904	Marionette	INFO	Stopped listening on port 49615
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643106713710	geckodriver	INFO	Listening on 127.0.0.1:63648
+1643106716774	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63649" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileW2B8lg"
+1643106717556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileW2B8lg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63649/devtools/browser/7ce52b28-eac6-484a-a562-eda7dcbffada
+1643106721678	Marionette	INFO	Listening on port 63655
+1643106722145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643106724231	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 5560, MediaDecoderStateMachine #1] WARNING: 1df99163f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VYSAmqkCqqI2p1vG7N0EZhME2mSBj47Ds8I6nIhDmP4.js line 1 > eval line 1787 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5560, MediaDecoderStateMachine #1] WARNING: 1df8ece2740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5560, MediaDecoderStateMachine #1] WARNING: 1df9230ef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5560, MediaDecoderStateMachine #1] WARNING: 1df95fa4d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5560, MediaDecoderStateMachine #1] WARNING: 1df95fa4d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5560, MediaDecoderStateMachine #1] WARNING: 1df991632e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643106759317	Marionette	INFO	Stopped listening on port 63655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643107054295	geckodriver	INFO	Listening on 127.0.0.1:63911
+1643107057345	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63912" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileGKLj61"
+1643107057898	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileGKLj61\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63912/devtools/browser/4446250e-03d5-484d-808d-0d8bbc264c1f
+1643107061203	Marionette	INFO	Listening on port 63917
+1643107061572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643107063266	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 2196, MediaDecoderStateMachine #1] WARNING: 1e17766c120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VYSAmqkCqqI2p1vG7N0EZhME2mSBj47Ds8I6nIhDmP4.js line 1 > eval line 4988 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2196, MediaDecoderStateMachine #1] WARNING: 1e16c439820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2196, MediaDecoderStateMachine #1] WARNING: 1e176f1d200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2196, MediaDecoderStateMachine #1] WARNING: 1e176f31e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2196, MediaDecoderStateMachine #1] WARNING: 1e16d01f740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2196, MediaDecoderStateMachine #1] WARNING: 1e176f47f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2196, MediaDecoderStateMachine #1] WARNING: 1e1716e13c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2196, MediaDecoderStateMachine #1] WARNING: 1e17379a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643107085958	Marionette	INFO	Stopped listening on port 63917
+1643109364828	geckodriver	INFO	Listening on 127.0.0.1:64083
+1643109367898	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64084" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilexNfC8N"
+1643109368445	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilexNfC8N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64084/devtools/browser/0d4978ae-005f-4070-ba2c-3f7b93bc42c8
+1643109372655	Marionette	INFO	Listening on port 64089
+1643109372783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643109374998	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 9036, MediaDecoderStateMachine #1] WARNING: 1fb9fd249e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VYSAmqkCqqI2p1vG7N0EZhME2mSBj47Ds8I6nIhDmP4.js line 1 > eval line 572 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9036, MediaDecoderStateMachine #1] WARNING: 1fb9a124900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 9036, MediaDecoderStateMachine #1] WARNING: 1fb9a124ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 9036, MediaDecoderStateMachine #1] WARNING: 1fb9e54ec80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 9036, MediaDecoderStateMachine #1] WARNING: 1fb9e54ee40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643109411454	Marionette	INFO	Stopped listening on port 64089
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 6636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

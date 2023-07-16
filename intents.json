@@ -1,0 +1,228 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "hello",
+                "hi",
+                "hey",
+                "wake up",
+                "jarvis",
+                "are you there",
+                "hai"
+            ],
+            "responses": [
+                "I am still listening for your commands",
+                "I am there",
+                "How are you",
+                "Hello Boss!",
+                "Yes, I am there"
+            ]
+        },
+        {
+            "tag": "health",
+            "patterns": [
+                "how are you",
+                "are you good",
+                "how you"
+            ],
+            "responses": [
+                "Yeah, Iam good",
+                "Iam super cool!",
+                "super fine",
+                "feeling good",
+                "I am fine"
+            ]
+        },
+        {
+            "tag": "sketch",
+            "patterns": [
+                "open sketch",
+                "make a sketch",
+                "sketch",
+                "pencil",
+                "pencil art",
+                "draw a sketch"
+            ],
+            "responses": [
+                "sketch"
+            ]
+        },
+        {
+            "tag": "timesheet",
+            "patterns": [
+                "open timesheet",
+                "can you fill the timesheet",
+                "mark my attendance",
+                "timesheet",
+                "time sheet",
+                "mark my timesheet",
+                "mark my time sheet"
+                
+            ],
+            "responses": [
+                "timesheet"
+            ]
+        },
+        {
+            "tag": "time",
+            "patterns": [
+                "what's the time",
+                "time",
+                "what is the time",
+                "what's the time now",
+                "time now",
+                "samay"
+            ],
+            "responses": [
+                "samay"
+            ]
+        },
+        {
+            "tag": "date",
+            "patterns": [
+                "what's the date",
+                "date",
+                "what is the date",
+                "what is date",
+                "date today"
+            ],
+            "responses": [
+                "date"
+            ]
+        },
+        {
+            "tag": "day",
+            "patterns": [
+                "what's the day today",
+                "today's day",
+                "which day today",
+                "day",
+                "current day"
+            ],
+            "responses": [
+                "day"
+            ]
+        },
+        {
+            "tag": "shutdown",
+            "patterns": [
+                "power off",
+                "shutdown",
+                "shutdown pc",
+                "switch off"
+            ],
+            "responses": [
+                "shutdown"
+            ]
+        }
+        ,
+        {
+            "tag": "restart",
+            "patterns": [
+                "restart the pc",
+                "restart computer",
+                "reboot",
+                "system restart"
+            ],
+            "responses": [
+                "restart"
+            ]
+        },
+        {
+            "tag": "music",
+            "patterns": [
+                "play some music",
+                "play song",
+                "music",
+                "drop my needle"
+            ],
+            "responses": [
+                "music"
+            ]
+        },
+        {
+            "tag": "notes",
+            "patterns": [
+                "make a note",
+                "short notes",
+                "open notes",
+                "notes",
+                "take a note"
+            ],
+            "responses": [
+                "note"
+            ]
+        },
+        {
+            "tag": "temperature",
+            "patterns": [
+                "current temperature",
+                "present temperature",
+                "what is the current temperature",
+                "what is the present temperature"
+            ],
+            "responses": [
+                "temperature"
+            ]
+        }
+        ,
+        {
+            "tag": "youtube",
+            "patterns": [
+                "open youtube",
+                "play a video",
+                "youtube",
+                "youtube open karo",
+                "go to youtube",
+                "play some video in youtube"
+            ],
+            "responses": [
+                "youtube"
+            ]
+        },
+        {
+            "tag": "chrome",
+            "patterns": [
+                "open chrome",
+                "open browser",
+                "browser open karo",
+                "get it from chrome",
+                "search in chrome",
+                "search something from chrome",
+                "grab information from chrome"
+            ],
+            "responses": [
+                "chrome"
+            ]
+        },
+        {
+            "tag": "speedtest",
+            "patterns": [
+                "check my internet speed",
+                "check internet speed",
+                "speedtest",
+                "calculate my internet speed",
+                "give my speedtest",
+                "evaluate internet speed"
+            ],
+            "responses": [
+                "speedtest"
+            ]
+        },
+        {
+            "tag": "mail",
+            "patterns": [
+                "send a mail",
+                "compose a mail",
+                "mail send karo",
+                "mail to",
+                "mail",
+                "inform through mail"
+            ],
+            "responses": [
+                "mail"
+            ]
+        }
+    ]
+}
